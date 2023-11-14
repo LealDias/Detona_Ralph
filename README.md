@@ -1,5 +1,5 @@
 # Detona_Ralph
-Jogo Detona Ralph criado com 
+Jogo Detona Ralph criado no Bootcamp de criação de jogos da DIO e Santander!
 
 <p align="center">
   <a href="#">
@@ -17,3 +17,8 @@ Jogo Detona Ralph criado com
 
 Acesse o link abaixo e diverta-se!
 https://lealdias.github.io/Detona_Ralph/
+
+## Screen Shots
+
+![image](https://github.com/LealDias/Detona_Ralph/assets/70763447/961bbce6-22ae-40f5-9456-26df1c5c5640)
+
